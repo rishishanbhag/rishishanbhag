@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Rishi Shanbhag and I'm a passionate Computer Science student</h2>
-
 ###
 
 <div align="left">
