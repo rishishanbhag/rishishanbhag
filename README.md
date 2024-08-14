@@ -29,6 +29,8 @@
   <a href="shanbhag.rishi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+
   <a href="https://www.linkedin.com/in/rishi-shanbhag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -36,4 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/dad339419faf3e51093b3e1a90587c77d738bed360a00d8180d861205f696a87/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f4c765864796b7a33616e5839654c656f6c415052426d634c34647666315641396d4c516b5a4376393778412f72733a6669743a3836303a303a302f673a63652f6148523063484d364c79396e61575a6b2f5969356a62323076615731685a32567a2f4c3268705a32677659573570625746302f5a57517459326876593273745932396b2f6157356e4c574d334f4759325a5778712f4d7a4a7a5a6d39704f4845755a326c6d2e676966" width="718" height="404">
 
