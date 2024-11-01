@@ -13,7 +13,7 @@ Hi 👋! My name is Rishi Shanbhag and I'm a passionate Computer Science student
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishishanbhag&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishishanbhag&icon=2&color=12)](https://visitcount.itsvg.in)
+[![An image of @rishishanbhag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishishanbhag)](https://holopin.io/@rishishanbhag)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
