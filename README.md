@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Total Time: 4 hrs 55 mins
+Total Time: 7 hrs 35 mins
 
-Go           3 hrs 6 mins    ███████████████▓░░░░░░░░░   63.07 %
-C++          54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-Text         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Go           4 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.52 %
+JavaScript   1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+C++          54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
 ```
 
 <!--END_SECTION:waka-->
