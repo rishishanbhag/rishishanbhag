@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-Total Time: 2 hrs
+Total Time: 33 mins
 
-JavaScript                   ████████████████████████▒   97.19 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
